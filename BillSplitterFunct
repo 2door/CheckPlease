@@ -1,0 +1,34 @@
+BASIC:
+register
+login
+logout
+create group + invite users to group
+leave group
+add bill to group
+! notification of a new bill and monies owed (via email)
+view bills to pay (on all groups) - bill status (pending, paid, balances??)
+pay bills / mark as payed?
+! disability !
+
+EXTRA:
+add deadline to bill
+add bill for specified users
+notifications for deadline bills
+Settings:
+    -change pass;
+    -change username;
+    -change email;
+    -change picture;
+    -change payment details;
+! proportional bill splitting
+? friends ?
+? integrated paypal ? (user who is owed gets the transfer)
+
+
+Remember: RESET CSS!
+JAVASCRIPT
+AJAX
+TWITTER BOOTSTRAP
+ZURB FOUNDATION
+GOOGLE FONTS
+JQUERY / JQUERY UI
