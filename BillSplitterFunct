@@ -1,13 +1,13 @@
 BASIC:
-register
-login
-logout
-create group + invite users to group
-leave group
-add bill to group
+register //done
+login    //done
+logout   //do dropdown with js, php
+create group + invite users to group //pop up forms
+leave group //create button, form and js
+add bill to group   //create form and js
 ! notification of a new bill and monies owed (via email)
-view bills to pay (on all groups) - bill status (pending, paid, balances??)
-pay bills / mark as payed?
+view bills to pay (on all groups) - bill status (pending, paid, balances??) //check CW paper???????
+pay bills / mark as payed? <---make sure to give checkbox value //change 'payed' field in db
 ! disability !
 
 EXTRA:
